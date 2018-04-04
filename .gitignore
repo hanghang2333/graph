@@ -1,0 +1,9 @@
+*.zip
+*.DS_Store
+exp
+*.pyc
+*~
+*.ipynb*
+util/hungarian.so
+*.jpg
+*.h5
