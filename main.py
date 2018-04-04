@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0,"/Users/lihang0802/code/px2graph")
+sys.path.insert(0,"/Users/lihang0802/code/")
 import tensorflow as tf
 import numpy as np
 import h5py
